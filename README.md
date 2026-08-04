@@ -1,1 +1,1 @@
-This project has simple python programs from Assessment-1 sheet of VIT BCSE 2024 , It does not have any copyright or watermark , so you are free to use it
+This project has simple python programs for personal Assessment over basic concepts and principle , It does not have any copyright or watermark , so you are free to use or practice it .
